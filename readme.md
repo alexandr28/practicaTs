@@ -1,3 +1,3 @@
 # Curso de TypeScript 
-## Fundamentos 
+## Fundamentos y Herramientas 
 ## Variables
