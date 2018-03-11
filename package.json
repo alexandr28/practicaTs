@@ -4,6 +4,7 @@
   "description": "Practica TS para uso educativo",
   "main": "index.js",
   "scripts": {
+    "dev": "webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

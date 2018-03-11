@@ -7,6 +7,18 @@ var usuario ={
 
 saludo(usuario.nombre);
 
+console.log('Bienvenidos a consola TS');
+
+let mensaje1 = 'Comenzando con el Curso!';
+console.log(mensaje1);
+let mensajes = [
+    {contenido1: 'Hola'},
+    {contenido1: 'TypeScript'},
+    {contenido1: 'Hasta pronto'}
+];
+mensajes.map((mensajeActual)=> mensajeActual.contenido1.toUpperCase());
+console.log(mensajes);
+
 let cursoIniciado:boolean = true;
 cursoIniciado=false;
 let nombreCurso:string="Angular"
