@@ -1,0 +1,27 @@
+{
+  "name": "practicaTs",
+  "version": "1.0.0",
+  "description": "Practica TS para uso educativo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandr28/practicaTs.git"
+  },
+  "keywords": [],
+  "author": "Alexandr Campos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandr28/practicaTs/issues"
+  },
+  "homepage": "https://github.com/alexandr28/practicaTs#readme",
+  "dependencies": {
+    "ts-loader": "^4.0.1",
+    "typescript": "^2.7.2",
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.11",
+    "webpack-dev-server": "^3.1.1"
+  }
+}
